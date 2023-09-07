@@ -1,0 +1,4 @@
+quizName,quizType,totalScore,PassingPercentage,question1,question2,question3
+Demo quiz 1,Textual,20,75,"Demo quiz 1, question 1","Demo quiz1, question 2","Demo quiz1, question 3"
+Demo quiz with some longer name,Single choice,10,79,"Demo quiz 1, question 1","Demo quiz1, question 2","Demo quiz1, question 3"
+demo quiz to check special chars %#@,Multipe choice,80,90,"Demo quiz 1, question 1","Demo quiz1, question 2","Demo quiz1, question 3"
